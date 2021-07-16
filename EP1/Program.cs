@@ -22,7 +22,7 @@ namespace DSharpPlusTutorial
         {
             DiscordConfiguration configBot = new DiscordConfiguration
             {
-                Token = "INSERITE IL TOKEN DEL BOT",
+                Token = "INSERIRE IL TOKEN DEL BOT QUI",
                 TokenType = TokenType.Bot,
                 AutoReconnect = true,
                 MinimumLogLevel = Microsoft.Extensions.Logging.LogLevel.Debug,
